@@ -10,7 +10,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-lucio-da-silva/)](https://www.linkedin.com/in/cesar-lucio-da-silva/)
 
 [![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarlucio)](https://github.com/cesarlucio/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarlucio&langs_count=8)](https://github.com/cesarlucio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarlucio&langs_count=8&count_private=true)](https://github.com/cesarlucio/github-readme-stats)
 
 - Thanks for visiting.
 
