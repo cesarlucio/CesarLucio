@@ -2,7 +2,7 @@
 
 ### I'm César Lúcio da Silva
 
-- :computer: Jr Backend Software Engineer at Zé Delivery
+- :computer: Backend Software Engineer at Zé Delivery
 
 ## About me
 
